@@ -1,0 +1,64 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 6.7,
+      "soil_description": "Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": 32,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 6.7,
+      "bottom_depth_m": 16.77,
+      "soil_description": "Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": 30,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 16.77,
+      "bottom_depth_m": 22.87,
+      "soil_description": "Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": 36,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 22.87,
+      "bottom_depth_m": 27.44,
+      "soil_description": "Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": 10,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 27.44,
+      "bottom_depth_m": 30.49,
+      "soil_description": "Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": 10,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Layer 1 (0 to 6.70 m, Clay): Es = 25 MPa, Poisson's ratio = 0.38, Soil Cohesion c = 0.005 MPa, TAU-MAX = 0.03 MPa; Layer 2 (6.70 to 16.77 m, Clay): Es = 25 MPa, Poisson's ratio = 0.30, Soil Cohesion c = 0.100 MPa, TAU-MAX = 0.10 MPa; Layer 3 (16.77 to 22.87 m, Clay): Es = 35 MPa, Poisson's ratio = 0.30, Soil Cohesion c = 0.010 MPa, TAU-MAX = 0.06 MPa; Layer 4 (22.87 to 27.44 m, Sand): Es = 35 MPa, Poisson's ratio = 0.35, Soil Cohesion c = 0.007 MPa, TAU-MAX = 0.09 MPa; Layer 5 (27.44 to 30.49 m, Sand): Es = 35 MPa, Poisson's ratio = 0.36, Soil Cohesion c = 0.140 MPa, TAU-MAX = 0.24 MPa.",
+  "_file_id": "1YAIhwnmWPVm1o4BoeFMfmKwHggSl5pVY",
+  "_model_used": "gemini-3.6-flash"
+}

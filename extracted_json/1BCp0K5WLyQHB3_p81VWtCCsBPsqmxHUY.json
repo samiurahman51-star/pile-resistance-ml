@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": "Central Terminal Area at the airport",
+  "groundwater_depth_m": 1.5,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.0,
+      "soil_description": "Hydraulic sand fill (thickness 3 to 5 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.0,
+      "bottom_depth_m": 6.0,
+      "soil_description": "Highly compressible organic tidal marsh deposits (thickness 1 to 3 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 6.0,
+      "bottom_depth_m": 56.0,
+      "soil_description": "Glacial outwash sands of varying gradation and density (thickness approx. 50 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 56.0,
+      "bottom_depth_m": 200.0,
+      "soil_description": "Compact clays and sands extending to bedrock",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Layer depths for the top two strata are represented using midpoint thicknesses (4.0 m for 3-5 m hydraulic sand fill and 2.0 m for 1-3 m organic deposits). Glacial sands have fine to medium gradation (Cu = 2.1) and average relative density of 40% to 60%. Bedrock is at approximately 200 m depth. No SPT N or CPT qc plots or numerical values are shown in this figure.",
+  "_file_id": "1BCp0K5WLyQHB3_p81VWtCCsBPsqmxHUY",
+  "_model_used": "gemini-4-hydrogen"
+}

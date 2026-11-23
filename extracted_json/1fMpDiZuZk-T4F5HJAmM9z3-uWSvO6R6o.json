@@ -1,0 +1,50 @@
+{
+  "groundwater_depth_m": 4.57,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 3.66,
+      "soil_description": "SP (Sand)",
+      "spt_n_summary": "15 to 30",
+      "cpt_qc_mpa_summary": "100 to 300 tsf"
+    },
+    {
+      "top_depth_m": 3.66,
+      "bottom_depth_m": 9.14,
+      "soil_description": "CL, CH, ML (Fine-grained soils)",
+      "spt_n_summary": "5 to 20",
+      "cpt_qc_mpa_summary": "20 to 100 tsf"
+    },
+    {
+      "top_depth_m": 9.14,
+      "bottom_depth_m": 12.8,
+      "soil_description": "SP, SW (Sand/Gravelly Sand)",
+      "spt_n_summary": "20 to 40",
+      "cpt_qc_mpa_summary": "100 to 250 tsf"
+    },
+    {
+      "top_depth_m": 12.8,
+      "bottom_depth_m": 17.37,
+      "soil_description": "ML (Silt)",
+      "spt_n_summary": "20 to 25",
+      "cpt_qc_mpa_summary": "150 to 350 tsf"
+    },
+    {
+      "top_depth_m": 17.37,
+      "bottom_depth_m": 22.86,
+      "soil_description": "SW, SP (Sand/Gravelly Sand)",
+      "spt_n_summary": "15 to 40",
+      "cpt_qc_mpa_summary": "150 to 400 tsf"
+    },
+    {
+      "top_depth_m": 22.86,
+      "bottom_depth_m": 25.91,
+      "soil_description": "GP (Gravel)",
+      "spt_n_summary": "25 to 30",
+      "cpt_qc_mpa_summary": "300 to 450 tsf"
+    }
+  ],
+  "additional_notes": "Embedment length shown as 22.86m (75ft). SPT N-values provided in blows per foot. CPT qc values provided in tsf (tons per square foot).",
+  "_file_id": "1fMpDiZuZk-T4F5HJAmM9z3-uWSvO6R6o",
+  "_model_used": "gemini-3.1-flash-lite"
+}

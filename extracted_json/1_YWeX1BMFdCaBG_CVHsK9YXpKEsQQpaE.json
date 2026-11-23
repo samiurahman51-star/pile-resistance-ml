@@ -1,0 +1,75 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": 4.57,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 3.96,
+      "soil_description": "SP",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 26",
+      "cpt_qc_mpa_summary": "0 to 300 tsf (0 to 28.7 MPa)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 3.96,
+      "bottom_depth_m": 9.14,
+      "soil_description": "CL, CH, ML",
+      "spt_n_representative": null,
+      "spt_n_summary": "3 to 15",
+      "cpt_qc_mpa_summary": "10 to 50 tsf (1.0 to 4.8 MPa)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 9.14,
+      "bottom_depth_m": 12.5,
+      "soil_description": "SP, SW",
+      "spt_n_representative": null,
+      "spt_n_summary": "12 to 36",
+      "cpt_qc_mpa_summary": "100 to 250 tsf (9.6 to 23.9 MPa)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.5,
+      "bottom_depth_m": 17.07,
+      "soil_description": "ML",
+      "spt_n_representative": null,
+      "spt_n_summary": "18 to 27",
+      "cpt_qc_mpa_summary": "100 to 350 tsf (9.6 to 33.5 MPa)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 17.07,
+      "bottom_depth_m": 24.38,
+      "soil_description": "SW, SP",
+      "spt_n_representative": null,
+      "spt_n_summary": "12 to 50+",
+      "cpt_qc_mpa_summary": "50 to 450 tsf (4.8 to 43.1 MPa)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 24.38,
+      "bottom_depth_m": 25.91,
+      "soil_description": "GP",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 35",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Pile embedded length is 22.86 m (75 ft). Groundwater table depth is located at approximately 15 ft (4.57 m) depth.",
+  "_file_id": "1_YWeX1BMFdCaBG_CVHsK9YXpKEsQQpaE",
+  "_model_used": "gemini-3.6-flash"
+}

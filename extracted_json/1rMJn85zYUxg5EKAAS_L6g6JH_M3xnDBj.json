@@ -1,0 +1,97 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 0.91,
+      "soil_description": "Clay",
+      "spt_n_representative": 10,
+      "spt_n_summary": "10 printed at ~1.5 ft (0.5 m)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 0.91,
+      "bottom_depth_m": 5.79,
+      "soil_description": "Sand, Clayey",
+      "spt_n_representative": 8,
+      "spt_n_summary": "8 printed at ~10 ft (3.0 m)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 5.79,
+      "bottom_depth_m": 7.62,
+      "soil_description": "Silt",
+      "spt_n_representative": 11,
+      "spt_n_summary": "11 printed near ~19-20 ft (5.8-6.1 m)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.62,
+      "bottom_depth_m": 9.91,
+      "soil_description": "Clay",
+      "spt_n_representative": 7,
+      "spt_n_summary": "7 printed at ~30 ft (9.1 m)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 9.91,
+      "bottom_depth_m": 11.43,
+      "soil_description": "Sand, Clayey",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 11.43,
+      "bottom_depth_m": 14.78,
+      "soil_description": "Clay, Slightly Fissured",
+      "spt_n_representative": 23,
+      "spt_n_summary": "23 printed at ~41 ft (12.5 m)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 14.78,
+      "bottom_depth_m": 23.16,
+      "soil_description": "Sand, Clayey",
+      "spt_n_representative": null,
+      "spt_n_summary": "14 to 22 (printed values: 15 at ~50 ft, 14 at ~60 ft, 22 at ~72 ft)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 23.16,
+      "bottom_depth_m": 27.74,
+      "soil_description": "Sand (?) (No Tests)",
+      "spt_n_representative": 100,
+      "spt_n_summary": "100 printed at ~80 ft (24.4 m)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Depths in the original figure are in feet (0 to 91 ft) and converted to meters (1 ft = 0.3048 m). Figure shows an instrumented 36-in. (0.91 m) diameter shaft extending 87 ft (26.5 m) below an approximately 4 ft (1.2 m) excavation, with strain gage levels 1 through 14 marked.",
+  "_file_id": "1rMJn85zYUxg5EKAAS_L6g6JH_M3xnDBj",
+  "_model_used": "gemini-4-hydrogen"
+}

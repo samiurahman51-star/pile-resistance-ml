@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": "TP6",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.0,
+      "soil_description": "Fill Material",
+      "spt_n_representative": null,
+      "spt_n_summary": "around 2",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.0,
+      "bottom_depth_m": 15.0,
+      "soil_description": "Soft to Medium CLAY (CH)",
+      "spt_n_representative": null,
+      "spt_n_summary": "2 to 20, increasing with depth",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 15.0,
+      "bottom_depth_m": 26.0,
+      "soil_description": "Very Stiff CLAY (CL)",
+      "spt_n_representative": null,
+      "spt_n_summary": "20 to 30",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 26.0,
+      "bottom_depth_m": 41.0,
+      "soil_description": "Dense to Very Dense (SM)",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 60",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Borehole TP6 with a total depth of 41.0m shown on the log",
+  "_file_id": "1ZbbTR5k1HatJWzjtIHmjE2WQlPOpOdUt",
+  "_model_used": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,39 @@
+{
+  "site_or_case_name": "Pier Test Site",
+  "groundwater_depth_m": 0.61,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 6.1,
+      "soil_description": "Compact fine to medium brown sand with some silt and a trace of clay",
+      "spt_n_summary": "6 to 24",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 6.1,
+      "bottom_depth_m": 12.19,
+      "soil_description": "Loose fine grey silt with a little sand and clay, becoming clayey silt below 30 feet",
+      "spt_n_summary": "9 to 16",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.19,
+      "bottom_depth_m": 18.29,
+      "soil_description": "Firm to stiff reddish-brown silty clay with thin layers of silt to 1/4 inch thick",
+      "spt_n_summary": "Pushed",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 67.0
+    }
+  ],
+  "additional_notes": "Depths in original figure are in feet and converted to meters using 1 ft = 0.305 m. Shear strength values in psf are converted to kPa using 1 psf = 0.04788 kPa.",
+  "_file_id": "1qmRhCj8DT4c3ixetydfEW6RoPjmKBxnR",
+  "_model_used": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": 3.0,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.1,
+      "soil_description": "BROWN SILTY CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 104.7
+    },
+    {
+      "top_depth_m": 1.1,
+      "bottom_depth_m": 12.8,
+      "soil_description": "SAND, TAN, FINE",
+      "spt_n_representative": null,
+      "spt_n_summary": "50/0.27 m at 1.5 m, 71 at 3.0 m, 27 at 4.6 m, 10 at 6.1 m, 2 at 7.6 m, 2 to 10 near 9.1 m, 10 at 10.7 m, 17 at 12.2 m, 5 below 12.2 m; N_TxDOT ranges from 1 to 39 blows/0.30 m",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.8,
+      "bottom_depth_m": 15.2,
+      "soil_description": "CLAY, TAN, BROWN",
+      "spt_n_representative": null,
+      "spt_n_summary": "50/0.25 m at 13.7 m; N_TxDOT is 39 at 13.7 m and 30 at 15.2 m",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 104.7
+    },
+    {
+      "top_depth_m": 15.2,
+      "bottom_depth_m": 22.9,
+      "soil_description": "SANDY CLAY, TAN, BROWN",
+      "spt_n_representative": null,
+      "spt_n_summary": "No N_SPT recorded; N_TxDOT increases from 34 at 16.8 m to 72 at 21.3 m and 64 at 22.9 m",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 104.7
+    }
+  ],
+  "additional_notes": "Base of test pile is indicated at 15.2 m depth. Both N_TxDOT and N_SPT are reported in blows/0.30 m.",
+  "_file_id": "1HMDSIqSWbi4j-OX6-Wqv5U11DhrHXi1c",
+  "_model_used": "gemini-4-hydrogen"
+}

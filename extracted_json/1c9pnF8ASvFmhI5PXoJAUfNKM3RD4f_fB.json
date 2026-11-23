@@ -1,0 +1,42 @@
+{
+  "site_or_case_name": "Tower Area",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 3.0,
+      "soil_description": "Soft to very stiff silty clay (softer clays and silts containing trace organic matter)",
+      "spt_n_representative": null,
+      "spt_n_summary": "8 to 25 blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 3.0,
+      "bottom_depth_m": 19.8,
+      "soil_description": "Stiff to very stiff silty clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "12 to 40 blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 19.8,
+      "bottom_depth_m": 30.5,
+      "soil_description": "Dense silty sand, sandy silt, & hard silty clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to over 90 blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Summary boring log includes unconfined compressive strength (in TSF, where 1 TSF = 95.8 kPa), water content (%), blows per ft (SPT N), and calibrated penetrometer readings.",
+  "_file_id": "1c9pnF8ASvFmhI5PXoJAUfNKM3RD4f_fB",
+  "_model_used": "gemini-3.6-flash"
+}

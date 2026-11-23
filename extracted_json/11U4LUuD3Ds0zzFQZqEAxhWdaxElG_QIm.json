@@ -1,0 +1,8 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [],
+  "additional_notes": "No soil profile depths, groundwater level, or SPT/CPT plots are provided in this text excerpt. Subsoil is described as medium dense silty-sandy gravels (mixed-grained slope deposits) with varying contents of clay (<= 10%) or stones/blocks (<= 30% per mass), and uniformity coefficient U = d60/d10 = 50 to 200. Foundations include bore holes with casing strings (D <= 1.5 m) and open shafts partially protected by shotcrete (1.5 <= D <= 3 m).",
+  "_file_id": "11U4LUuD3Ds0zzFQZqEAxhWdaxElG_QIm",
+  "_model_used": "gemini-4-hydrogen"
+}

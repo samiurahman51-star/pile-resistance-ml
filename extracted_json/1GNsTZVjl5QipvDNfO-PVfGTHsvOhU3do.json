@@ -1,0 +1,163 @@
+{
+  "site_or_case_name": "98th Street well (USGS)",
+  "groundwater_depth_m": 115.2,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 24.4,
+      "soil_description": "Sand and gravel with pebble-gravel beds and coarse-sand beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 24.4,
+      "bottom_depth_m": 41.1,
+      "soil_description": "Clayey, sandy silt with interbedded clay beds and coarse-sand beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 41.1,
+      "bottom_depth_m": 76.2,
+      "soil_description": "Silty fine sand with pebble-gravel beds, coarse-sand beds, and clay beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 76.2,
+      "bottom_depth_m": 93.0,
+      "soil_description": "Clayey, sandy silt with clay beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 93.0,
+      "bottom_depth_m": 161.5,
+      "soil_description": "Silty fine sand with interbedded clay beds, sandstone lenses, and coarse-sand beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 161.5,
+      "bottom_depth_m": 192.0,
+      "soil_description": "Clay and clayey, sandy silt with abundant clay beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 192.0,
+      "bottom_depth_m": 214.9,
+      "soil_description": "Silty fine sand with clay beds and coarse-sand beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 214.9,
+      "bottom_depth_m": 230.1,
+      "soil_description": "Clayey, sandy silt with sandstone beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 230.1,
+      "bottom_depth_m": 239.3,
+      "soil_description": "Silty fine sand",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 239.3,
+      "bottom_depth_m": 306.3,
+      "soil_description": "Medium sand with pebble-gravel beds, coarse-sand beds, clay beds, and sandstone lenses",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 306.3,
+      "bottom_depth_m": 344.4,
+      "soil_description": "Sand and gravel and medium sand with sandstone lenses, pebble-gravel beds, and coarse-sand beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 344.4,
+      "bottom_depth_m": 408.4,
+      "soil_description": "Medium sand with coarse-sand beds, clay beds, and pebble-gravel beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 408.4,
+      "bottom_depth_m": 425.2,
+      "soil_description": "Silty fine sand with clay bed",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 425.2,
+      "bottom_depth_m": 457.2,
+      "soil_description": "Medium sand and sand and gravel with pebble-gravel beds, coarse-sand beds, sandstone, and clay beds",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Original depths and water table (378 ft) are plotted in feet from 0 to 1,500 ft and converted to meters (1 ft = 0.3048 m). No SPT N, CPT qc, or geotechnical strength/unit weight parameters are presented; geophysical logs show Conductivity (0 to >400 mS/m) and Natural gamma (50 to >150 API units) along with sample intervals.",
+  "_file_id": "1GNsTZVjl5QipvDNfO-PVfGTHsvOhU3do",
+  "_model_used": "gemini-4-hydrogen"
+}

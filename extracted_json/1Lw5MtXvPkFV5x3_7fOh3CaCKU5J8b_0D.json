@@ -1,0 +1,77 @@
+{
+  "site_or_case_name": "\u88683.1 \u7c21\u5316\u571f\u5c64\u53ca\u5de5\u7a0b\u7279\u6027\u8207\u8a2d\u8a08\u53c3\u6578\u5efa\u8b70",
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.0,
+      "soil_description": "\u8868\u571f\u5c64, \u9ec3\u68d5\u8272\u7c89\u571f\u8cea\u7d30\u7802\u593e\u7d05\u78da\u6df7\u51dd\u571f\u584a\u53ca\u7c89\u571f\u6216\u7c98\u571f\u5c64",
+      "spt_n_representative": 6,
+      "cpt_qc_mpa_summary": "2.0 MPa",
+      "friction_angle_deg": 28,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.0,
+      "bottom_depth_m": 21.0,
+      "soil_description": "\u68d5\u7070\u81f3\u7070\u8272\u7c89\u571f\u8cea\u7d30\u7802\u542b\u8c9d\u5c51, \u5076\u593e\u7c89\u571f\u6216\u7c98\u571f\u5c64, \u4e2d\u7b49\u7dca\u5bc6",
+      "spt_n_representative": 26,
+      "cpt_qc_mpa_summary": "12.0 MPa",
+      "friction_angle_deg": 35,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 21.0,
+      "bottom_depth_m": 24.9,
+      "soil_description": "\u7070\u8272\u7c89\u571f\u8cea\u7d30\u7802\u593e\u7c89\u571f\u6216\u7c98\u571f\u8584\u5c64, \u4e2d\u7b49\u7dca\u5bc6",
+      "spt_n_representative": 26,
+      "cpt_qc_mpa_summary": "10.0 MPa",
+      "friction_angle_deg": 35,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 24.9,
+      "bottom_depth_m": 27.4,
+      "soil_description": "\u7070\u8272\u7c98\u571f\u6216\u7802\u8cea\u7c89\u571f\u593e\u8c50\u5bcc\u4e4b\u7c98\u571f\u6216\u7d30\u7802\u5c64\u6216\u4e92\u5c64",
+      "spt_n_representative": 22,
+      "cpt_qc_mpa_summary": "6.0 MPa",
+      "friction_angle_deg": 31,
+      "undrained_shear_strength_kpa": 76.02
+    },
+    {
+      "top_depth_m": 27.4,
+      "bottom_depth_m": 42.0,
+      "soil_description": "\u7070\u8272\u7dca\u5bc6\u7c89\u571f\u8cea\u7d30\u7802\u593e\u7c89\u571f\u6216\u7c98\u571f\u5c64",
+      "spt_n_representative": 50,
+      "cpt_qc_mpa_summary": "18.0 MPa",
+      "friction_angle_deg": 34,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 42.0,
+      "bottom_depth_m": 46.0,
+      "soil_description": "\u7070\u8272\u4f4e\u5851\u6027\u7c98\u571f\u6216\u7c89\u571f\u5c64",
+      "spt_n_representative": 28,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 146.97
+    },
+    {
+      "top_depth_m": 46.0,
+      "bottom_depth_m": 51.5,
+      "soil_description": "\u7070\u8272\u6975\u7dca\u5bc6\u7c89\u571f\u8cea\u7d30\u7802\u5076\u542b\u8c9d\u5c51\u53ca\u7c89\u571f\u6216\u7c98\u571f\u593e\u5c64",
+      "spt_n_representative": 70,
+      "friction_angle_deg": 34,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 51.5,
+      "bottom_depth_m": 74.5,
+      "soil_description": "\u7070\u81f3\u9ed1\u7070\u8272\u672a\u56fa\u7d50\u4e4b\u7c89\u7802\u5ca9\u593e\u6ce5\u5ca9\u53ca\u9752\u7070\u8272\u672a\u56fa\u7d50\u7802\u5ca9",
+      "spt_n_representative": 100,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Unit weights in the table (gamma) are listed in t/m^3 (e.g., 1.8, 1.95, etc.). CPT qc values are in kg/cm^2, converted here to MPa (1 kg/cm^2 approx 0.1 MPa). Undrained shear strength (Su) is provided in kg/cm^2 (converted to kPa using 98.07 factor).",
+  "_file_id": "1Lw5MtXvPkFV5x3_7fOh3CaCKU5J8b_0D",
+  "_model_used": "gemini-3.1-flash-lite"
+}

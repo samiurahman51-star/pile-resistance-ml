@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 12.0,
+      "soil_description": "Sandy silt",
+      "spt_n_representative": null,
+      "spt_n_summary": "2 to 20",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.0,
+      "bottom_depth_m": 17.0,
+      "soil_description": "Sandy clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "8 to 20",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 17.0,
+      "bottom_depth_m": 23.0,
+      "soil_description": "Silt",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 100",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 23.0,
+      "bottom_depth_m": 34.0,
+      "soil_description": "Weathered sandstone",
+      "spt_n_representative": null,
+      "spt_n_summary": "90 to 240",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": null,
+  "_file_id": "1kRbVw52d66XeOUPxIp_6JyOG31rCvo3S",
+  "_model_used": "gemini-3.6-flash"
+}

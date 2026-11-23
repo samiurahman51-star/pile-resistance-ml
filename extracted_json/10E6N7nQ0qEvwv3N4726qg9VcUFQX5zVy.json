@@ -1,0 +1,64 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": 3.0,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.6,
+      "soil_description": "SANDY CLAY, RED WITH SILTY SAND LAYERS",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 12",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 65.1
+    },
+    {
+      "top_depth_m": 4.6,
+      "bottom_depth_m": 9.1,
+      "soil_description": "SANDY CLAY, RED WITH SILTY SAND LAYERS",
+      "spt_n_representative": null,
+      "spt_n_summary": "12 to 18",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 103.5
+    },
+    {
+      "top_depth_m": 9.1,
+      "bottom_depth_m": 12.2,
+      "soil_description": "SANDY CLAY, TAN, BECOMING VERY SANDY BELOW 10.7 M",
+      "spt_n_representative": null,
+      "spt_n_summary": "7 to 34",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 67.1
+    },
+    {
+      "top_depth_m": 12.2,
+      "bottom_depth_m": 15.2,
+      "soil_description": "CLAY, SANDY, RED",
+      "spt_n_representative": null,
+      "spt_n_summary": "23 to 34",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 15.2,
+      "bottom_depth_m": 19.8,
+      "soil_description": "SANDY CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": "18 to 32",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 136.0
+    }
+  ],
+  "additional_notes": "Toe of test pile is located at approximately 15.2 meters depth.",
+  "_file_id": "10E6N7nQ0qEvwv3N4726qg9VcUFQX5zVy",
+  "_model_used": "gemini-3.5-flash-lite"
+}

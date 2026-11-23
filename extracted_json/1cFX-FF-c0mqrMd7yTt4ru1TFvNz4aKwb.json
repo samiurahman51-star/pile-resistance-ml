@@ -1,0 +1,20 @@
+{
+  "site_or_case_name": "Large circular laboratory pit",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 8.0,
+      "soil_description": "Uniform, compact sand (85% sand, 15% gravel)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": 20,
+      "friction_angle_deg": 35,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Pit dimensions: 5 m diameter, 8 m depth. Water evacuated by drains at the bottom after saturated vibration compaction. Water content: 2-3%; Cohesion: 0; Permeability: 10^-5 m/s.",
+  "_file_id": "1cFX-FF-c0mqrMd7yTt4ru1TFvNz4aKwb",
+  "_model_used": "gemini-4-hydrogen"
+}

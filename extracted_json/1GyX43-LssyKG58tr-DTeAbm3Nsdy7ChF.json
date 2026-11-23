@@ -1,0 +1,163 @@
+{
+  "site_or_case_name": "Fig. 2 Plan of position of piles and soil profile (Mitoyo Layer; Piles T1, T2, T3, R1-R4)",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.5,
+      "soil_description": "Reclaimed sand (TP +4.5 to 0.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "3 to 10",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.5,
+      "bottom_depth_m": 10.0,
+      "soil_description": "Sand (Reclaimed sand / upper sand, TP 0.0 to -5.5 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 15",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 10.0,
+      "bottom_depth_m": 11.0,
+      "soil_description": "Cohesive soil (TP -5.5 to -6.5 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 10",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 11.0,
+      "bottom_depth_m": 14.5,
+      "soil_description": "Sand (Upper diluvium, TP -6.5 to -10.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 25",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 14.5,
+      "bottom_depth_m": 25.5,
+      "soil_description": "Gravel (Upper diluvium, TP -10.0 to -21.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 50+, increasing with depth",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 25.5,
+      "bottom_depth_m": 27.5,
+      "soil_description": "Cohesive soil (Lower diluvium, TP -21.0 to -23.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 20",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 27.5,
+      "bottom_depth_m": 33.0,
+      "soil_description": "Sand with thin interbedded seam near 29.5-30.5 m (Lower diluvium, TP -23.0 to -28.5 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 30",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 33.0,
+      "bottom_depth_m": 37.0,
+      "soil_description": "Cohesive soil (Lower diluvium, TP -28.5 to -32.5 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 30",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 37.0,
+      "bottom_depth_m": 48.0,
+      "soil_description": "Sand with cohesive soil wedge on right side near 45.5-49.0 m (Mitoyo Layer, TP -32.5 to -43.5 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "20 to 45",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 48.0,
+      "bottom_depth_m": 53.0,
+      "soil_description": "Cohesive soil (Mitoyo Layer, TP -43.5 to -48.5 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "25 to 40",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 53.0,
+      "bottom_depth_m": 54.5,
+      "soil_description": "Sand (Mitoyo Layer, TP -48.5 to -50.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 40",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 54.5,
+      "bottom_depth_m": 58.5,
+      "soil_description": "Cohesive soil (Mitoyo Layer, TP -50.0 to -54.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 45",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 58.5,
+      "bottom_depth_m": 99.5,
+      "soil_description": "Sand with localized thin cohesive soil lenses at approx. 62.5-64.5 m, 67.5 m, and 81.5-83.0 m (Mitoyo Layer, TP -54.0 to -95.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "40 to 50+, with brief dips to ~25-35 at thin cohesive lenses",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 99.5,
+      "bottom_depth_m": 104.5,
+      "soil_description": "Granite bedrock (TP -95.0 to -100.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "50+ (borehole N-value logs terminate near 102 m depth)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Vertical axis is marked in elevation TP m (Tokyo Peil) from approx. +4.5 m at ground surface down to -100 m; layer depths are converted from ground surface (Depth = 4.5 - TP). Two SPT N-value profiles (scale 0 to 50) are plotted on the left and right sides. Test piles shown: T1 (TP 0 to -67 m), T2 (TP +4.5 to -36 m), T3 (TP +4.5 to -67 m). No groundwater level symbol or CPT qc, unit weight, friction angle, or undrained shear strength values are shown.",
+  "_file_id": "1GyX43-LssyKG58tr-DTeAbm3Nsdy7ChF",
+  "_model_used": "gemini-4-hydrogen"
+}

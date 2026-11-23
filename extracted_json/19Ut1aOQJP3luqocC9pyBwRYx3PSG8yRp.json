@@ -1,0 +1,64 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": 0.0,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.8,
+      "soil_description": "Loose Medium to Fine Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 12",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.8,
+      "bottom_depth_m": 13.2,
+      "soil_description": "Loose to Medium Dense Silty Fine Sand (11 - 41% Fines Content)",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 20",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 13.2,
+      "bottom_depth_m": 16.3,
+      "soil_description": "Medium Dense very Silty Fine Sand (48% Fines Content)",
+      "spt_n_representative": null,
+      "spt_n_summary": "12 to 25",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 16.3,
+      "bottom_depth_m": 35.5,
+      "soil_description": "Medium Dense to Dense Silty Fine Sand with Silt (21 - 82% Fines Content)",
+      "spt_n_representative": null,
+      "spt_n_summary": "18 to 45",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 35.5,
+      "bottom_depth_m": 45.0,
+      "soil_description": "Dense Silty Medium to Fine Sand (12 - 18% Fines Content)",
+      "spt_n_representative": null,
+      "spt_n_summary": "35 to 60",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Values in parentheses indicate fines content. Plot displays SPT N-value profiles for TP-3 and TP-4 along with pile shaft instrumentation locations.",
+  "_file_id": "19Ut1aOQJP3luqocC9pyBwRYx3PSG8yRp",
+  "_model_used": "gemini-3.6-flash"
+}

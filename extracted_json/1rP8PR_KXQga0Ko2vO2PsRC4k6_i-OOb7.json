@@ -1,0 +1,42 @@
+{
+  "site_or_case_name": "Pile 1, Pile 2, and Pile 3 Test Site (Profile referenced to Pile 1 ground surface at EL +4.0 m)",
+  "groundwater_depth_m": 5.5,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.0,
+      "soil_description": "Loose Sand Fill (EL +4.0 m to EL 0.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.0,
+      "bottom_depth_m": 7.8,
+      "soil_description": "Loose Grey Sand (EL 0.0 m to EL -3.8 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.8,
+      "bottom_depth_m": 12.0,
+      "soil_description": "Very Dense Cemented Silty Sand (EL -3.8 m to EL -8.0 m)",
+      "spt_n_representative": null,
+      "spt_n_summary": "N >= 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Figure shows three pile locations with varying ground surface elevations and water levels (W.L.). Pile 1: ground surface EL +4.0 m, W.L. at EL -1.5 m (5.5 m depth), B = 0.45 m, L = 10.8 m (tip EL -6.8 m), steel cage 6 dia 25 mm. Pile 2: ground surface EL +1.0 m, W.L. at EL -2.5 m (3.5 m depth), B = 1.0 m, L = 8.7 m (tip EL -7.7 m), steel cage 19 dia 16 mm; strata are Loose Fine Silty Sand (EL +1.0 m to EL -2.5 m, depth 0.0 to 3.5 m) overlying Very Dense Cemented Silty Sand with N >= 50 (below EL -2.5 m, depth > 3.5 m). Pile 3: ground surface EL +2.0 m, W.L. at approx. EL -2.4 m (depth ~4.4 m), B = 1.20 m, L = 8.5 m (tip EL -6.5 m), steel cage 26 dia 20 mm; strata are Loose Fine Silty Sand (EL +2.0 m to EL -1.5 m / -2.4 m) overlying Very Dense Cemented Silty Sand with N >= 50.",
+  "_file_id": "1rP8PR_KXQga0Ko2vO2PsRC4k6_i-OOb7",
+  "_model_used": "gemini-4-hydrogen"
+}

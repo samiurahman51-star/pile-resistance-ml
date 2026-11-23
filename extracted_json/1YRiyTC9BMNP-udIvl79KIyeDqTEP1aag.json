@@ -1,0 +1,42 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.8,
+      "soil_description": "Unlabeled upper stratum (inferred from SCPTu profile; no lithology labels printed on log)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": "1.0 to 4.0 MPa (qT; ~2 to 4 MPa from 0 to 1.5 m, ~1 to 3 MPa from 1.5 to 2.8 m)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.8,
+      "bottom_depth_m": 14.0,
+      "soil_description": "Unlabeled middle stratum (inferred from SCPTu profile; no lithology labels printed on log)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": "0.6 to 2.9 MPa (qT; mostly 0.7 to 2.0 MPa from 2.8 to 12 m, increasing to ~1.5 to 2.9 MPa from 12 to 14 m)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 14.0,
+      "bottom_depth_m": 18.0,
+      "soil_description": "Unlabeled lower stratum (inferred from SCPTu profile; no lithology labels printed on log)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": "2.5 to 9.5 MPa (qT; ~3.0 to 5.0 MPa from 14.2 to 16.2 m, increasing to 5.0 to 9.5 MPa from 16.3 to 18.0 m)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Plot displays SCPTu parameters (qT, fs, ub, and Vs) from 0 to 18 m without explicit soil names or groundwater level text, though the cyan pore pressure baseline starts at 0 kPa at 0 m depth. Sleeve friction fs ranges ~80-230 kPa (0-2.8 m), ~50-150 kPa (2.8-14.0 m), and ~150-350 kPa (14.0-18.0 m). Pore pressure ub shows high positive values up to ~470 kPa around 1.2-2.8 m and negative values below 3 m with periodic pore water dissipation tests labeled (100, 85, 75, 70, 80, 130, 90, 135, 86, 210, and 345 sec). Shear wave velocity Vs ranges ~200-300 m/s (0-2.8 m), ~160-255 m/s (2.8-14.0 m), and ~190-290 m/s (14.0-18.0 m).",
+  "_file_id": "1YRiyTC9BMNP-udIvl79KIyeDqTEP1aag",
+  "_model_used": "gemini-4-hydrogen"
+}

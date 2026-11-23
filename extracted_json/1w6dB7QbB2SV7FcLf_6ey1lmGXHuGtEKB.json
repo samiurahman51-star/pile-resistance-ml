@@ -1,0 +1,75 @@
+{
+  "site_or_case_name": "(a) US59 (Multi-profile figure also includes (b) HH, (c) G1 Site, (d) G2 Site, and (e) BB Site; primary profile extracted for US59 and others summarized in notes)",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.5,
+      "soil_description": "CH (High-plasticity clay, upper stratum)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.5,
+      "bottom_depth_m": 4.4,
+      "soil_description": "CH (High-plasticity clay)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.4,
+      "bottom_depth_m": 5.6,
+      "soil_description": "ML (Low-plasticity silt)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 5.6,
+      "bottom_depth_m": 7.5,
+      "soil_description": "SP (Poorly graded sand)",
+      "spt_n_representative": 30,
+      "spt_n_summary": "30",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.5,
+      "bottom_depth_m": 7.8,
+      "soil_description": "Thin fine-grained/clayey seam",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.8,
+      "bottom_depth_m": 12.2,
+      "soil_description": "SP (Poorly graded sand)",
+      "spt_n_representative": null,
+      "spt_n_summary": "60 to 100, decreasing with depth (100, 80, 60, 60)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Depths converted using the figure note 1 ft = 30.5 cm (0.305 m). Numbers inside the logs represent Standard Penetration Test (SPT) blow counts; *T indicates thermocouple locations and numbered segments indicate load cells along the shaft. Other profiles shown in the figure: (b) HH (no groundwater marked): CL from 0.0 to 4.0 m, CL from 4.0 to 6.7 m, SP with thin clay seams from 6.7 to 9.8 m (SPT N > 100); (c) G1 Site (groundwater at 5.2 m / 17 ft): CH from 0.0 to 5.2 m, ML from 5.2 to 6.7 m, CH from 6.7 to 10.4 m, SP from 10.4 to 19.5 m (SPT N = 30, 25, 12, 14, 23, 31, 24); (d) G2 Site (groundwater at 4.0 m / 13 ft): CH from 0.0 to 19.5 m, SP from 19.5 to 23.5 m (SPT N = 40, 70), CH from 23.5 to 25.0 m; (e) BB Site (groundwater at 8.2 m / 27 ft): CL from 0.0 to 1.7 m, CL-ML from 1.7 to 4.3 m, CL from 4.3 to 6.1 m, SP from 6.1 to 16.5 m (SPT N > 100 above 13.4 m, 60 above a thin clay seam at ~14.3 m, and 50 below).",
+  "_file_id": "1w6dB7QbB2SV7FcLf_6ey1lmGXHuGtEKB",
+  "_model_used": "gemini-4-hydrogen"
+}

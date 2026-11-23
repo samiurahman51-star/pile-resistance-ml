@@ -1,0 +1,86 @@
+{
+  "site_or_case_name": "Representative soil profile and test piles",
+  "groundwater_depth_m": 3.35,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.44,
+      "soil_description": "BLACK TOPSOIL GRADUALLY CHANGING TO A SANDY BROWN CLAY THEN TO LEAN TAN CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.44,
+      "bottom_depth_m": 3.35,
+      "soil_description": "TAN SLICKENSIDED CLAY WITH SEAMS OF GRAY SAND",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 3.35,
+      "bottom_depth_m": 3.66,
+      "soil_description": "WATER-BEARING STRATUM",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 3.66,
+      "bottom_depth_m": 4.88,
+      "soil_description": "LAMINATED TAN CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.88,
+      "bottom_depth_m": 5.79,
+      "soil_description": "FIRM, BROWN CLAY WITH SILT AND FINE SAND LAMINATIONS",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 5.79,
+      "bottom_depth_m": 6.71,
+      "soil_description": "LAMINATED BROWN CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 6.71,
+      "bottom_depth_m": 7.62,
+      "soil_description": "LAMINATED BROWN CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Triaxial/Mohr diagram tests show average cohesion = 3.3 PSI (22.8 kPa), friction angle phi_ave = 26 deg (phi_min = 17.5 deg, phi_max = 38 deg). Soil index properties: Liquid Limit = 60.5-63.0%, Plasticity Index = 31.8-33.9%, Moisture Content = 29.7-36.1%.",
+  "_file_id": "1iR43obfM289FRY1T_inveHzIOFPY85CC",
+  "_model_used": "gemini-3.6-flash"
+}

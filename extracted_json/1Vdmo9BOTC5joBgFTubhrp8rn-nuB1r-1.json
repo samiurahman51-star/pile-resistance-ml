@@ -1,0 +1,64 @@
+{
+  "site_or_case_name": "Site A (Bank of Thailand)",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.5,
+      "soil_description": "Fill (F)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.5,
+      "bottom_depth_m": 12.0,
+      "soil_description": "Soft silty clay (sC)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.0,
+      "bottom_depth_m": 19.0,
+      "soil_description": "Medium clay (mC)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 19.0,
+      "bottom_depth_m": 27.0,
+      "soil_description": "Stiff sandy clay (stC)",
+      "spt_n_representative": null,
+      "spt_n_summary": "20 to 80 blows/30 cm",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 27.0,
+      "bottom_depth_m": 40.0,
+      "soil_description": "Sand (S)",
+      "spt_n_representative": null,
+      "spt_n_summary": "20 to 113 blows/30 cm, generally increasing with depth",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Includes plotted soil index properties (water content, plastic limit, liquid limit), undrained shear strength from Vane test and UC test, and SPT profiles along with tell-tale rod locations for Pile T1 and Pile T2.",
+  "_file_id": "1Vdmo9BOTC5joBgFTubhrp8rn-nuB1r-1",
+  "_model_used": "gemini-3.6-flash"
+}

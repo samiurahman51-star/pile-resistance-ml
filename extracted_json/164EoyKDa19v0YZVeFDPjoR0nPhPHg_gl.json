@@ -1,0 +1,31 @@
+{
+  "site_or_case_name": "Fig. 2 Results of In Situ and Laboratory Tests",
+  "groundwater_depth_m": 2.2,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.2,
+      "soil_description": "Fill Silt Gravel",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 40 blows/30cm",
+      "cpt_qc_mpa_summary": "0.5 to 8 MPa",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.2,
+      "bottom_depth_m": 25.0,
+      "soil_description": "Lacustrine Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "3 to 6 blows/30cm",
+      "cpt_qc_mpa_summary": "0.5 to 4.5 MPa",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "In situ tests include Menard Pressuremeter (PL and E), Static Penetrometer, and Dynamic Penetrometer. Laboratory tests include Water Content, Consistency Index (Ic), and Unconfined Compression Strength (qu).",
+  "_file_id": "164EoyKDa19v0YZVeFDPjoR0nPhPHg_gl",
+  "_model_used": "gemini-3.6-flash"
+}

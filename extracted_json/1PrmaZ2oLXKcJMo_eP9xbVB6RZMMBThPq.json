@@ -1,0 +1,86 @@
+{
+  "site_or_case_name": "TP8",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.5,
+      "soil_description": "Fill Material",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.5,
+      "bottom_depth_m": 15.0,
+      "soil_description": "Very Soft to Medium CLAY (CH)",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 20",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 15.0,
+      "bottom_depth_m": 23.0,
+      "soil_description": "Stiff CLAY (CH-CL)",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 15",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 23.0,
+      "bottom_depth_m": 27.0,
+      "soil_description": "Medium Dense SAND (SM)",
+      "spt_n_representative": null,
+      "spt_n_summary": "25 to 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 27.0,
+      "bottom_depth_m": 42.0,
+      "soil_description": "Hard CLAY (CH, CL)",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 42.0,
+      "bottom_depth_m": 46.0,
+      "soil_description": "Dense to Very Dense SAND (SM)",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 90",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 46.0,
+      "bottom_depth_m": 50.0,
+      "soil_description": "Very Stiff CLAY (CH)",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 20",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Log shows borehole TP8 extending down to 43.6 m.",
+  "_file_id": "1PrmaZ2oLXKcJMo_eP9xbVB6RZMMBThPq",
+  "_model_used": "gemini-3.5-flash-lite"
+}

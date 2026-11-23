@@ -1,0 +1,108 @@
+{
+  "site_or_case_name": "\u897f\u6ff1\u5feb\u901f\u516c\u8def WH75\u6a19 (\u5c07\u8ecd\u6eaa\u81f3\u516b\u68df\u5bee\u6bb5\u53ca\u5c07\u8ecd\u9023\u7d61\u9053\u5de5\u7a0b) - Borehole B-23",
+  "groundwater_depth_m": 0.49,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 0.4,
+      "soil_description": "\u56de\u586b\u571f (Backfill, SF)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 0.4,
+      "bottom_depth_m": 2.5,
+      "soil_description": "\u7802\u8cea\u7c89\u571f (Sandy silt)",
+      "spt_n_representative": 5,
+      "spt_n_summary": "5",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.5,
+      "bottom_depth_m": 12.25,
+      "soil_description": "\u7c89\u571f\u8cea\u7802 (Silty sand)",
+      "spt_n_representative": null,
+      "spt_n_summary": "8 to 19, increasing with depth (8, 9, 10, 18, 19)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.25,
+      "bottom_depth_m": 15.0,
+      "soil_description": "\u7c89\u571f\u8cea\u9ecf\u571f (Silty clay, inferred from hatching legend)",
+      "spt_n_representative": 21,
+      "spt_n_summary": "21",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 15.0,
+      "bottom_depth_m": 23.0,
+      "soil_description": "\u7c89\u571f\u8cea\u7802 (Silty sand)",
+      "spt_n_representative": null,
+      "spt_n_summary": "23 to 26 (23 or 25, 25, 25, 26)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 23.0,
+      "bottom_depth_m": 30.42,
+      "soil_description": "\u7c89\u571f\u8cea\u9ecf\u571f (Silty clay, inferred from hatching legend)",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 33 (30, 32, 33, 33)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 30.42,
+      "bottom_depth_m": 33.57,
+      "soil_description": "\u7c89\u571f\u8cea\u7802 (Silty sand)",
+      "spt_n_representative": null,
+      "spt_n_summary": "16 to 22 (16, 22)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 33.57,
+      "bottom_depth_m": 35.0,
+      "soil_description": "\u7802\u8cea\u7c89\u571f (Sandy silt)",
+      "spt_n_representative": 22,
+      "spt_n_summary": "22",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 35.0,
+      "bottom_depth_m": 40.0,
+      "soil_description": "\u7c89\u571f\u8cea\u7802 (Silty sand)",
+      "spt_n_representative": null,
+      "spt_n_summary": "16 to 23 (23, 16)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Borehole B-23 ground surface elevation is EL. +1.1 m; groundwater level is marked at EL. +0.61 m (measured 87.9), corresponding to 0.49 m depth. Scales shown are H=1:1000, V=1:300; total borehole depth is 40.0 m. Handwritten note indicates Sta ~96K+000 \u5de6\u53f3. No CPT qc, unit weight, friction angle, or undrained shear strength values are printed.",
+  "_file_id": "1yjH8uEOGZwn7ROsg3UTcWFUaJQtf5P-t",
+  "_model_used": "gemini-4-hydrogen"
+}

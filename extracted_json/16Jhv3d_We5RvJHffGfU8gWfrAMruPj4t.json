@@ -1,0 +1,108 @@
+{
+  "site_or_case_name": "TP4",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.0,
+      "soil_description": "Medium Stiff Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 10",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.0,
+      "bottom_depth_m": 9.0,
+      "soil_description": "Very Soft to Soft Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 20",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 9.0,
+      "bottom_depth_m": 13.0,
+      "soil_description": "Loose Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 15",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 13.0,
+      "bottom_depth_m": 17.0,
+      "soil_description": "Very Stiff Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 25",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 17.0,
+      "bottom_depth_m": 23.0,
+      "soil_description": "Medium Dense Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "25 to 35",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 23.0,
+      "bottom_depth_m": 33.0,
+      "soil_description": "Very Stiff Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "35 to 75",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 33.0,
+      "bottom_depth_m": 45.0,
+      "soil_description": "Dense to Very Dense Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 65",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 45.0,
+      "bottom_depth_m": 52.0,
+      "soil_description": "Hard Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 52.0,
+      "bottom_depth_m": 60.0,
+      "soil_description": "Dense to Very Dense Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "40 to 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Log indicates TP4 with dimensions 1.0m x 49.47m.",
+  "_file_id": "16Jhv3d_We5RvJHffGfU8gWfrAMruPj4t",
+  "_model_used": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,64 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.5,
+      "soil_description": "Loose to Medium Dense Medium to Fine Sand with Gravels",
+      "spt_n_representative": null,
+      "spt_n_summary": "7 to 16 (TP-2)",
+      "cpt_qc_mpa_summary": "1 to 5 MPa (10 to 50 kgf/cm2, TP-1)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.5,
+      "bottom_depth_m": 20.4,
+      "soil_description": "Medium Dense Silty Medium to Fine Sand (Fines Content: 11 - 42%)",
+      "spt_n_representative": null,
+      "spt_n_summary": "11 to 38, generally increasing with depth (TP-2)",
+      "cpt_qc_mpa_summary": "2 to 15 MPa (20 to 150 kgf/cm2, TP-1)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 20.4,
+      "bottom_depth_m": 31.2,
+      "soil_description": "Medium Dense to Dense Silty Fine Sand with Silty Clay Seams (Fines Content: 30 - 96%)",
+      "spt_n_representative": null,
+      "spt_n_summary": "22 to 44 (TP-2)",
+      "cpt_qc_mpa_summary": "6 to 28 MPa (60 to 285 kgf/cm2, TP-1)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 31.2,
+      "bottom_depth_m": 36.0,
+      "soil_description": "Dense Silty Fine Sand (Fines Content: 11 - 16%)",
+      "spt_n_representative": null,
+      "spt_n_summary": "41 to 62, increasing with depth (TP-2)",
+      "cpt_qc_mpa_summary": "16 to 21 MPa (160 to 210 kgf/cm2, TP-1)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 36.0,
+      "bottom_depth_m": 45.0,
+      "soil_description": "Very Dense Silty Fine Sand (Fines Content: 15 - 39%)",
+      "spt_n_representative": null,
+      "spt_n_summary": "39 to 66, peaking near 37 m (TP-2)",
+      "cpt_qc_mpa_summary": "17 to >27 MPa (170 to >280 kgf/cm2, TP-1 terminates near 37 m)",
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Parentheses in stratum descriptions denote fines content. CPT qc values converted from kgf/cm2 (1 kgf/cm2 = 0.0981 MPa). Instrumented pile shown with 1.40 m diameter shaft, 2.40 m diameter belled base at 36.5 m, and vibrating wire strain gauges (VWSG-1 to VWSG-4 at 0.5 m, 18.8 m, 30.9 m, and 36.3 m).",
+  "_file_id": "1URmx3_OkUgaCiRyJ7-q5d9BXYg-eBerg",
+  "_model_used": "gemini-4-hydrogen"
+}

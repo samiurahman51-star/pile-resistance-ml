@@ -1,0 +1,37 @@
+{
+  "site_or_case_name": "Glasgow Sheriffs Court Ground Conditions",
+  "groundwater_depth_m": 5.0,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 3.0,
+      "soil_description": "Fill",
+      "spt_n_summary": "10 to 30",
+      "cpt_qc_mpa_summary": "0 to 2 MPa"
+    },
+    {
+      "top_depth_m": 3.0,
+      "bottom_depth_m": 33.0,
+      "soil_description": "Silty fine & medium sand",
+      "spt_n_summary": "5 to 40, increasing with depth",
+      "cpt_qc_mpa_summary": "2 to 18 MPa, increasing with depth"
+    },
+    {
+      "top_depth_m": 33.0,
+      "bottom_depth_m": 36.0,
+      "soil_description": "Lodgement till",
+      "spt_n_summary": "40 to 65",
+      "cpt_qc_mpa_summary": null
+    },
+    {
+      "top_depth_m": 36.0,
+      "bottom_depth_m": 40.0,
+      "soil_description": "Lower Coal Measures (Rock)",
+      "spt_n_summary": "50 to 65",
+      "cpt_qc_mpa_summary": null
+    }
+  ],
+  "additional_notes": "Groundwater level indicated at 5m depth. SPT values increase significantly below 20m. CPT results provided for depths up to approximately 24m.",
+  "_file_id": "1yE-wi8zvgWXkjK_CnwDqGZKpBTHsGKqP",
+  "_model_used": "gemini-3.1-flash-lite"
+}

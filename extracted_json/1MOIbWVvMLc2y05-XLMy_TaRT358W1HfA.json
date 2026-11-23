@@ -1,0 +1,42 @@
+{
+  "site_or_case_name": "Fig. 5 Section through test piles",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.3,
+      "soil_description": "HIGHLY PLASTIC CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.3,
+      "bottom_depth_m": 5.5,
+      "soil_description": "SILTY CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 5.5,
+      "bottom_depth_m": 9.1,
+      "soil_description": "GLACIAL TILL",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Depths are converted from feet shown in the figure (10.5 ft pile 1 embedded depth, 17.9 ft pile 2 embedded depth, 26.9 ft pile 3 embedded depth).",
+  "_file_id": "1MOIbWVvMLc2y05-XLMy_TaRT358W1HfA",
+  "_model_used": "gemini-3.6-flash"
+}

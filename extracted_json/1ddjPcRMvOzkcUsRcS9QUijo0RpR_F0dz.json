@@ -1,0 +1,64 @@
+{
+  "site_or_case_name": "TP10",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.0,
+      "soil_description": "Fill Material",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.0,
+      "bottom_depth_m": 21.0,
+      "soil_description": "Very Soft to Soft CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": "20 to 45",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 21.0,
+      "bottom_depth_m": 25.0,
+      "soil_description": "Stiff to Very Stiff CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": "40 to 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 25.0,
+      "bottom_depth_m": 35.0,
+      "soil_description": "Dense to Very Dense SAND",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 90",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 35.0,
+      "bottom_depth_m": 60.0,
+      "soil_description": "Very Stiff to Hard Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "25 to 100",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Borehole TP10 extends to approximately 57 meters total depth.",
+  "_file_id": "1ddjPcRMvOzkcUsRcS9QUijo0RpR_F0dz",
+  "_model_used": "gemini-3.5-flash-lite"
+}

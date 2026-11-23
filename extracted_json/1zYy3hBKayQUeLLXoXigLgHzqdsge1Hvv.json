@@ -1,0 +1,86 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": 5.79,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 5.79,
+      "soil_description": "brown fine to med. sand little fine to med. gravel trace silt",
+      "spt_n_representative": null,
+      "spt_n_summary": "11, 14, 9, 14, 27 (range 9 to 27)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 5.79,
+      "bottom_depth_m": 7.92,
+      "soil_description": "brown silt some fine sand occ. pebbles, black & yellow mottled",
+      "spt_n_representative": null,
+      "spt_n_summary": "6, 2 (range 2 to 6)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.92,
+      "bottom_depth_m": 10.06,
+      "soil_description": "brown fine sand trace to little silt, occ. gravel",
+      "spt_n_representative": null,
+      "spt_n_summary": "16, 22, 15 (range 15 to 22)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 10.06,
+      "bottom_depth_m": 13.41,
+      "soil_description": "dark brown med. to coarse sand, trace silt, green mott. occ. gravel",
+      "spt_n_representative": null,
+      "spt_n_summary": "85, 61 (range 61 to 85)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 13.41,
+      "bottom_depth_m": 19.81,
+      "soil_description": "brown fine to med. gravel, trace silt and sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "52, 40, 60, 80 (range 40 to 80)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 19.81,
+      "bottom_depth_m": 22.25,
+      "soil_description": "brown gray & black silty clay trace sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "24, 30 (range 24 to 30)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 22.25,
+      "bottom_depth_m": 26.37,
+      "soil_description": "white to light yellow calcareous silt, trace sand & clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "23, 22, 24 (range 22 to 24)",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Original depths in feet (0', 19', 26', 33', 44', 65', 73', 86.5') converted to meters (1 ft = 0.3048 m). Water table observed at 19'-0\" (5.79 m); a '*14'' notation also appears along the depth axis. Moisture content W (%) values by layer from top to bottom: (17, 18, 9, 12, 9), (26, 29), (21, 23, 24), (12, 12), (-, -, -, -), (12, 46), and (27, 40, 38).",
+  "_file_id": "1zYy3hBKayQUeLLXoXigLgHzqdsge1Hvv",
+  "_model_used": "gemini-4-hydrogen"
+}

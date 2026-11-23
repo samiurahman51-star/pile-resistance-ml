@@ -1,0 +1,79 @@
+{
+  "site_or_case_name": "TP7",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.5,
+      "soil_description": "Fill Material",
+      "spt_n_summary": "10 to 12",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.5,
+      "bottom_depth_m": 15.0,
+      "soil_description": "Soft to Medium CLAY (CH)",
+      "spt_n_summary": "12 to 28, increasing with depth",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 15.0,
+      "bottom_depth_m": 19.5,
+      "soil_description": "Very Stiff CLAY (CH)",
+      "spt_n_summary": "22 to 26",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 19.5,
+      "bottom_depth_m": 26.0,
+      "soil_description": "Very Stiff CLAY (CL)",
+      "spt_n_summary": "22 to 25",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 26.0,
+      "bottom_depth_m": 40.0,
+      "soil_description": "Dense to Very Dense SAND (SM)",
+      "spt_n_summary": "28 to 60, peaking around 60 at 32-33m",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 40.0,
+      "bottom_depth_m": 45.5,
+      "soil_description": "Hard CLAY (CL)",
+      "spt_n_summary": "34 to 44",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 45.5,
+      "bottom_depth_m": 50.0,
+      "soil_description": "Dense to Very Dense SAND (SM)",
+      "spt_n_summary": "46 to 62",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Borehole TP7 profile depth extends to 43.6m visually on the left label, while the plotted strata continue down to 50m.",
+  "_file_id": "1W8ggdMBdkUvio_OO14-lKukiHUjWIPYY",
+  "_model_used": "gemini-3.5-flash-lite"
+}

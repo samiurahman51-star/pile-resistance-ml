@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": "Southall and Barnet",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 7.62,
+      "soil_description": "Firm to stiff brown London clay (Southall)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.62,
+      "bottom_depth_m": 12.19,
+      "soil_description": "Hard blue London clay (Southall)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.22,
+      "soil_description": "Variable clay and gravel (Barnet)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.22,
+      "bottom_depth_m": 9.14,
+      "soil_description": "Stiff to hard brown London clay (Barnet)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Depths converted from feet to meters (1 ft = 0.3048 m). Figures show water content (natural, plastic limit, liquid limit) and shearing strength profiles for Southall and Barnet sites.",
+  "_file_id": "14bBT111iKjZNDNO8-WQTmRwke_k8_F2T",
+  "_model_used": "gemini-3.6-flash"
+}

@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": "TP5",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.0,
+      "soil_description": "Fill Material",
+      "spt_n_representative": null,
+      "spt_n_summary": "around 2",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.0,
+      "bottom_depth_m": 17.5,
+      "soil_description": "Soft to Medium CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": "2 to 18, generally increasing with depth",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 17.5,
+      "bottom_depth_m": 25.0,
+      "soil_description": "Stiff CLAY",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 45",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 25.0,
+      "bottom_depth_m": 50.0,
+      "soil_description": "Dense to Very Dense SAND",
+      "spt_n_representative": null,
+      "spt_n_summary": "20 to 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Boring designation TP5 with depth range up to 43.0m shown on profile annotation, while axis extends to 50m.",
+  "_file_id": "1KLE_AXR9EJALg_n5buYJf7GlYmBNgETH",
+  "_model_used": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,97 @@
+{
+  "site_or_case_name": "Site B, TPB-2 (Beckwith & Bedenkop, 1973)",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 0.9,
+      "soil_description": "Silty clay",
+      "spt_n_representative": 15,
+      "spt_n_summary": "15",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 0.9,
+      "bottom_depth_m": 1.8,
+      "soil_description": "Clayey sand",
+      "spt_n_representative": 14,
+      "spt_n_summary": "14",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.8,
+      "bottom_depth_m": 5.8,
+      "soil_description": "Clay weakly cemented",
+      "spt_n_representative": 25,
+      "spt_n_summary": "25",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 5.8,
+      "bottom_depth_m": 7.3,
+      "soil_description": "Clay strongly cemented",
+      "spt_n_representative": 80,
+      "spt_n_summary": "80",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.3,
+      "bottom_depth_m": 7.9,
+      "soil_description": "Silty clay",
+      "spt_n_representative": 60,
+      "spt_n_summary": "60",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 7.9,
+      "bottom_depth_m": 9.1,
+      "soil_description": "Silty sand",
+      "spt_n_representative": 29,
+      "spt_n_summary": "29",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 9.1,
+      "bottom_depth_m": 11.6,
+      "soil_description": "Clay",
+      "spt_n_representative": 30,
+      "spt_n_summary": "30",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 11.6,
+      "bottom_depth_m": 12.8,
+      "soil_description": "Sand",
+      "spt_n_representative": 40,
+      "spt_n_summary": "40",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Depths in original figure are given in feet (converted to meters approximately). Construction procedure: Dry. Shaft dimensions: 2.65 ft diameter, 16.29 ft length.",
+  "_file_id": "1RapIOj8lUiD8pXlYSqVR8Jty0ni0I7wk",
+  "_model_used": "gemini-3.5-flash-lite"
+}

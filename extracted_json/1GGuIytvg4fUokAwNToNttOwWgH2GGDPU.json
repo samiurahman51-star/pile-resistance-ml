@@ -1,0 +1,97 @@
+{
+  "site_or_case_name": "TP3",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.0,
+      "soil_description": "Top Soil",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.0,
+      "bottom_depth_m": 11.0,
+      "soil_description": "Soft Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 10",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 11.0,
+      "bottom_depth_m": 14.0,
+      "soil_description": "Medium to Stiff Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 25",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 14.0,
+      "bottom_depth_m": 18.5,
+      "soil_description": "Medium to Dense Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 45",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 18.5,
+      "bottom_depth_m": 25.0,
+      "soil_description": "Stiff Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 30",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 25.0,
+      "bottom_depth_m": 28.0,
+      "soil_description": "Medium Dense Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 40",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 28.0,
+      "bottom_depth_m": 37.5,
+      "soil_description": "Very Stiff to Hard Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": "35 to 50",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 37.5,
+      "bottom_depth_m": 48.5,
+      "soil_description": "Dense to Very Dense Sand",
+      "spt_n_representative": null,
+      "spt_n_summary": "40 to 95",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Log total depth 48.51m, SPT-N blows/ft shown from 0 to 100.",
+  "_file_id": "1GGuIytvg4fUokAwNToNttOwWgH2GGDPU",
+  "_model_used": "gemini-3.5-flash-lite"
+}

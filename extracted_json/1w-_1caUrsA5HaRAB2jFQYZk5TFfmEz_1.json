@@ -1,0 +1,119 @@
+{
+  "site_or_case_name": "Drilled Piers Behavior - Figure 5",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 3.35,
+      "soil_description": "Generalized soil stratum (0 to 11 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 15 blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 3.35,
+      "bottom_depth_m": 6.4,
+      "soil_description": "Generalized soil stratum (11 to 21 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "5 to 20 blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 6.4,
+      "bottom_depth_m": 9.75,
+      "soil_description": "Generalized soil stratum (21 to 32 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 45 blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 9.75,
+      "bottom_depth_m": 12.65,
+      "soil_description": "Generalized soil stratum (32 to 41.5 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 45 blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.65,
+      "bottom_depth_m": 15.7,
+      "soil_description": "Generalized soil stratum (41.5 to 51.5 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "10 to 50+ blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 15.7,
+      "bottom_depth_m": 18.3,
+      "soil_description": "Generalized soil stratum (51.5 to 60 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 50+ blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 18.3,
+      "bottom_depth_m": 21.5,
+      "soil_description": "Generalized soil stratum (60 to 70.5 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "20 to 50+ blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 21.5,
+      "bottom_depth_m": 23.0,
+      "soil_description": "Generalized soil stratum (70.5 to 75.5 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "25 to 55+ blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 23.0,
+      "bottom_depth_m": 27.1,
+      "soil_description": "Generalized soil stratum (75.5 to 89 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "30 to 60+ blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 27.1,
+      "bottom_depth_m": 29.9,
+      "soil_description": "Generalized soil stratum (89 to 98 ft depth)",
+      "spt_n_representative": null,
+      "spt_n_summary": "15 to 60+ blows/ft",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "The figure presents generalized soil properties including Moisture Content (%) with Plastic Limit and Liquid Limit, Shear Strength (ksf) tested via UU, CU, UC, Torvane, and Cone Penetrometer, and SPT N-values (blows/ft) up to 100 ft depth.",
+  "_file_id": "1w-_1caUrsA5HaRAB2jFQYZk5TFfmEz_1",
+  "_model_used": "gemini-3.6-flash"
+}

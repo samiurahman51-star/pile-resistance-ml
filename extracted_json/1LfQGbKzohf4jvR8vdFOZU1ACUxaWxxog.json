@@ -1,0 +1,57 @@
+{
+  "site_or_case_name": "Beckwith & Bedenkop 1973, Site B, TPB-4",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 0.91,
+      "soil_description": "Silty clay",
+      "spt_n_representative": 15
+    },
+    {
+      "top_depth_m": 0.91,
+      "bottom_depth_m": 2.29,
+      "soil_description": "Clayey sand",
+      "spt_n_representative": 14
+    },
+    {
+      "top_depth_m": 2.29,
+      "bottom_depth_m": 6.1,
+      "soil_description": "Clay weakly cemented",
+      "spt_n_representative": 25
+    },
+    {
+      "top_depth_m": 6.1,
+      "bottom_depth_m": 7.01,
+      "soil_description": "Clay strongly cemented",
+      "spt_n_representative": 80
+    },
+    {
+      "top_depth_m": 7.01,
+      "bottom_depth_m": 7.92,
+      "soil_description": "Silty clay",
+      "spt_n_representative": 60
+    },
+    {
+      "top_depth_m": 7.92,
+      "bottom_depth_m": 9.14,
+      "soil_description": "Silty sand",
+      "spt_n_representative": 29
+    },
+    {
+      "top_depth_m": 9.14,
+      "bottom_depth_m": 11.58,
+      "soil_description": "Clay",
+      "spt_n_representative": 30
+    },
+    {
+      "top_depth_m": 11.58,
+      "bottom_depth_m": 12.19,
+      "soil_description": "Sand",
+      "spt_n_representative": 40
+    }
+  ],
+  "additional_notes": "Depths converted from feet to meters assuming 1 ft = 0.3048 m. The site is noted as Dry.",
+  "_file_id": "1LfQGbKzohf4jvR8vdFOZU1ACUxaWxxog",
+  "_model_used": "gemini-3.1-flash-lite"
+}

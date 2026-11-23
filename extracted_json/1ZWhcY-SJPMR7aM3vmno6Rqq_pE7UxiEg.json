@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 4.0,
+      "soil_description": "Clayey to Silty Sand",
+      "spt_n_representative": 70,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 4.0,
+      "bottom_depth_m": 12.0,
+      "soil_description": "Clayey to Silty Sand",
+      "spt_n_representative": 102,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 12.0,
+      "bottom_depth_m": 14.5,
+      "soil_description": "Clayey to Silty Sand",
+      "spt_n_representative": 118,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 14.5,
+      "bottom_depth_m": 18.0,
+      "soil_description": "Clayey to Silty Sand",
+      "spt_n_representative": 116,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Unlabeled horizontal axis ticks from 0 to 800 at the top of the profile; no plotted SPT N or CPT qc curves shown.",
+  "_file_id": "1ZWhcY-SJPMR7aM3vmno6Rqq_pE7UxiEg",
+  "_model_used": "gemini-4-hydrogen"
+}

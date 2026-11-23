@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": "FIG. 2\u2014Subsurface profile and laboratory test results.",
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 6.1,
+      "soil_description": "FILL: Clayey Silt, Some Rock Fragments",
+      "spt_n_representative": null,
+      "spt_n_summary": "3 to 15",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 6.1,
+      "bottom_depth_m": 6.7,
+      "soil_description": "RESIDUAL SOIL: Shale Fragments",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 6.7,
+      "bottom_depth_m": 8.3,
+      "soil_description": "BROWN SHALE: Soft to Medium Hard",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 8.3,
+      "bottom_depth_m": 9.1,
+      "soil_description": "GRAY SHALE: Soft to Medium Hard",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Percent Core Recovery is 100% and Rock Quality Designation (RQD) is 0% for both Brown and Gray Shale. Laboratory tests in the fill show water content ranging from 10% to 25%, peak shear strength from direct shear tests between 40 and 100 kPa, and residual shear strength between 25 and 50 kPa.",
+  "_file_id": "1UwQxMxAxxdYfc_-YeHDE_ktLkmsaZqOU",
+  "_model_used": "gemini-3.6-flash"
+}

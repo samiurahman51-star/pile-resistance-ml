@@ -1,0 +1,75 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": 0.0,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 2.0,
+      "soil_description": "Weathered Crust",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 2.0,
+      "bottom_depth_m": 15.0,
+      "soil_description": "Bangkok Soft Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": 15.0,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 17.5
+    },
+    {
+      "top_depth_m": 15.0,
+      "bottom_depth_m": 25.0,
+      "soil_description": "Medium to Stiff Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": 19.0,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 95.0
+    },
+    {
+      "top_depth_m": 25.0,
+      "bottom_depth_m": 38.0,
+      "soil_description": "Medium Dense Sand (First Sand)",
+      "spt_n_representative": null,
+      "spt_n_summary": "20-40",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": 20.0,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 38.0,
+      "bottom_depth_m": 45.0,
+      "soil_description": "Hard Clay",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": 21.0,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": 200.0
+    },
+    {
+      "top_depth_m": 45.0,
+      "bottom_depth_m": 60.0,
+      "soil_description": "Dense to Very Dense Sand (Second Sand)",
+      "spt_n_representative": null,
+      "spt_n_summary": "50-100",
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": 21.0,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Bangkok Soft Clay: Su = 10-25 kPa, unit weight = 14-16 kN/m3; Medium to Stiff Clay: Su = 50-140 kPa, unit weight = 17-21 kN/m3; Hard Clay: Su > 200 kPa; Plot shows Actual Piezometric Drawdown Line compared to Hydrostatic Line.",
+  "_file_id": "14NzmqwWY5ipoORUOFxsvcbvvuKV-ZleM",
+  "_model_used": "gemini-3.6-flash"
+}

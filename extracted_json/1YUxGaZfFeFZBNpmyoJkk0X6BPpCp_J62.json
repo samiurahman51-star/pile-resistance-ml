@@ -1,0 +1,53 @@
+{
+  "site_or_case_name": null,
+  "groundwater_depth_m": null,
+  "layers": [
+    {
+      "top_depth_m": 0.0,
+      "bottom_depth_m": 1.5,
+      "soil_description": "Upper soil stratum (surface crust)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 1.5,
+      "bottom_depth_m": 11.0,
+      "soil_description": "Main soil deposit (clay stratum)",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 11.0,
+      "bottom_depth_m": 18.0,
+      "soil_description": "Deep soil stratum",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    },
+    {
+      "top_depth_m": 18.0,
+      "bottom_depth_m": 18.5,
+      "soil_description": "Stiff layer / Bedrock interface",
+      "spt_n_representative": null,
+      "spt_n_summary": null,
+      "cpt_qc_mpa_summary": null,
+      "unit_weight_kn_m3": null,
+      "friction_angle_deg": null,
+      "undrained_shear_strength_kpa": null
+    }
+  ],
+  "additional_notes": "Profiles show shear wave velocity (Vs) and undrained shear strength (Su) with depth. Vs is ~230-310 m/s in the top 18 m and increases to ~650 m/s below 18 m depth. Su starts near 200 kPa at the ground surface, drops to ~60 kPa at ~1.8 m depth, and then increases linearly to ~310-350 kPa at 18 m depth.",
+  "_file_id": "1YUxGaZfFeFZBNpmyoJkk0X6BPpCp_J62",
+  "_model_used": "gemini-3.6-flash"
+}
