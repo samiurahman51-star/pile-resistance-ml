@@ -1,0 +1,14 @@
+# Secrets
+.env
+*.key
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Borehole figures from the original publications (not redistributed)
+downloaded_graphs/
+
+# System files
+.DS_Store
+Thumbs.db

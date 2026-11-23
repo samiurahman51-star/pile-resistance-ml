@@ -1,0 +1,15 @@
+# Needed for pile_resistance_ml.ipynb
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+jupyter
+
+# Only for extra_experiments.ipynb (interactive PCA plot)
+plotly
+
+# Only if you set DOWNLOAD_IMAGES = True to re-download the figures
+# requests
+# tqdm
